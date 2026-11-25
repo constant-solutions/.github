@@ -1,6 +1,6 @@
 # .github
 
-Organization-wide defaults for **constant-solutions**. Files here apply to every repository in the org that doesn't define its own.
+Organization-wide defaults for **Constant Solutions LLC** ([constant.solutions](https://constant.solutions)). Files here apply to every repository in the org that doesn't define its own.
 
 | Path | Purpose |
 | --- | --- |

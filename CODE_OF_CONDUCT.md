@@ -31,7 +31,7 @@ This Code of Conduct applies in all project spaces and when an individual repres
 
 ## Reporting
 
-Report violations to the maintainers by emailing **conduct@constant-solutions.example** (replace with a real address) or by contacting an organization owner directly. All reports are reviewed and handled confidentially.
+Report violations to the maintainers by emailing **hello@constant.solutions** or by contacting an organization owner directly. All reports are reviewed and handled confidentially.
 
 ## Attribution
 

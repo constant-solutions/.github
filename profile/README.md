@@ -1,19 +1,23 @@
-# Constant Solutions
+# Constant Solutions LLC
 
-Welcome to the **Constant Solutions** GitHub organization.
+**People logistics, solved end to end.**
 
-## What's here
+We build software that organizes groups, moves people and gets events planned and run, from the first sign-up to the last bus home, so teams spend less time coordinating and more time doing.
 
-- Our repositories, each with its own README and contribution notes.
-- Organization-wide defaults (this repository) for issues, pull requests, security, and community standards.
+## What we do
 
-## Getting involved
+- **Organize groups:** registration, rosters, teams and assignments, kept accurate as plans change.
+- **Move people:** transportation, schedules and check-in.
+- **Plan the whole event:** forms, waivers, deadlines and staffing, through to the day itself.
+- **Fill the gaps:** add-on layers for the applications you already use.
 
-- Read the [Contributing Guide](../CONTRIBUTING.md) before opening a pull request.
-- Report bugs or request features with the issue templates in any repository.
-- Report security problems privately; see the [Security Policy](../SECURITY.md).
-- Need help? See [SUPPORT.md](../SUPPORT.md).
+## Products
 
-## Community
+- **EventAlign:** camp and event operations in one place: attendees, staff, rooms, groups, waivers, calendars and transportation, with portals for admins, leaders, coordinators and parents.
 
-All participation is governed by our [Code of Conduct](../CODE_OF_CONDUCT.md).
+## Links
+
+- Website: [constant.solutions](https://constant.solutions)
+- Contact: [hello@constant.solutions](mailto:hello@constant.solutions)
+- Security reports: see our [Security Policy](../SECURITY.md)
+- Community standards: [Code of Conduct](../CODE_OF_CONDUCT.md)

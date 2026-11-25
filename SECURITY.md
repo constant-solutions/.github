@@ -4,7 +4,7 @@
 
 Please **do not** report security vulnerabilities through public issues, discussions, or pull requests.
 
-Instead, use GitHub's private vulnerability reporting: open the affected repository's **Security** tab and choose **Report a vulnerability**. If that isn't available, email **security@constant-solutions.example** (replace with a real address).
+Instead, use GitHub's private vulnerability reporting: open the affected repository's **Security** tab and choose **Report a vulnerability**. If that isn't available, email **hello@constant.solutions** with "Security" in the subject line.
 
 Include as much of the following as you can:
 
