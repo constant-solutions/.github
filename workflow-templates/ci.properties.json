@@ -1,0 +1,6 @@
+{
+  "name": "Constant Solutions CI",
+  "description": "Baseline CI workflow for Constant Solutions repositories.",
+  "iconName": "octicon workflow",
+  "categories": ["Continuous integration"]
+}
